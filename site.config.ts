@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ET Blog',
+  name: 'ESGN',
   domain: 'etchat.us.kg',
   author: 'Eternity-Sky',
 
   // open graph metadata (optional)
-  description: 'Eternity-Sky Blog',
+  description: 'ESGNBLOG',
 
   // social usernames (optional)
   github: 'Eternity-Sky',
