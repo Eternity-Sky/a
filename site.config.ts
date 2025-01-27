@@ -15,8 +15,6 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: 'ESGNBLOG',
-  socialImageTitle: 'ESGN',
-  socialImageSubtitle: 'ESGN',
   // social usernames (optional)
   github: 'Eternity-Sky',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
